@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "grass",
+"productVersion": "0.1",
+"dataUrl": "furgrass.data.unityweb",
+"wasmCodeUrl": "furgrass.wasm.code.unityweb",
+"wasmFrameworkUrl": "furgrass.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.11f1"
+}
